@@ -1,0 +1,6 @@
+new file.txt
+
+old file.txt
+
+im about to change the name
+
